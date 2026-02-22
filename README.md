@@ -48,3 +48,14 @@ Each run emits:
 
 
 
+
+## Getting Started
+
+Run the main script in PowerShell:
+
+```powershell
+.\run.ps1
+```
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
